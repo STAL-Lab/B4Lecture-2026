@@ -1,0 +1,2 @@
+﻿train_loss,CEL_action,RMSE_deltaT,RMSE_location,ACC_action,F1_action,MAE_deltaT,MAE_x,MAE_y
+4.5694,0.8936,0.2197,0.2577,0.7222,0.1746,3.0311,7.9559,16.4698
